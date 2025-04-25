@@ -5,13 +5,13 @@ Bu uygulama, IBAN numaralarınızı kolayca kaydetmenizi ve yönetmenizi sağlay
 
 ## 📥 Uygulamayı İndir
 
-[⬇️ app-release.zip dosyasını indir](https://github.com/ssevban/ibanapp/releases/download/v1.0.0/app-release.apk)
+[⬇️ app-release.apk dosyasını indir](https://github.com/ssevban/ibanapp/releases/download/v1.0.0/app-release.apk)
 ## 📥 Kurulum
 
 ### Geliştirici Kurulumu
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/iban-kayit.git
+git clone https://github.com/ssevban/ibanapp.git
 ```
 
 2. Bağımlılıkları yükleyin:
@@ -26,7 +26,7 @@ flutter run
 
 ## ✨ Özellikler
 
-- 🌙 Dark Mode tasarım
+- 🌙 Dark/Light Mode tasarım
 - 📝 IBAN ve sahip bilgisi kaydetme
 - 🏦 Otomatik banka adı tespiti
 - 📋 Tek tıkla IBAN kopyalama
@@ -65,7 +65,3 @@ flutter run
 3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: X'`)
 4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
 5. Pull Request oluşturun
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
