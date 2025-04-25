@@ -2,11 +2,11 @@
 
 Bu uygulama, IBAN numaralarınızı kolayca kaydetmenizi ve yönetmenizi sağlayan bir Flutter uygulamasıdır.
 
-## 📥 Kurulum
 
 ## 📥 Uygulamayı İndir
 
-[⬇️ app-release.zip dosyasını indir](https://github.com/ssevban/ibanapp/releases/download/v1.0.0/app-release.zip)
+[⬇️ app-release.zip dosyasını indir](https://github.com/ssevban/ibanapp/releases/download/v1.0.0/app-release.apk)
+## 📥 Kurulum
 
 ### Geliştirici Kurulumu
 1. Projeyi klonlayın:
