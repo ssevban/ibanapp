@@ -40,6 +40,7 @@ flutter run
   <tr>
     <td><img src="screenshots/ana_ekran.png" width="200"></td>
     <td><img src="screenshots/iban_ekleme.png" width="200"></td>
+    <td><img src="screenshots/silme_slide.png" width="200"></td>
     <td><img src="screenshots/silme_dialog.png" width="200"></td>
   </tr>
 </table>
